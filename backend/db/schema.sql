@@ -1,3 +1,4 @@
+CREATE DATABASE project_5;
 USE project_5;
 
 CREATE TABLE roles (
